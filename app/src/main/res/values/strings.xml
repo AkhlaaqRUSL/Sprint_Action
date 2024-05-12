@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sprint Action</string>
+    <string name="title">Sprint Actions</string>
+    <string name="sub_title">Task App</string>
+    <string name="sub_title2">Project Name</string>
+    <string name="project_name">Enter Project Title</string>
+    <string name="enter">GO</string>
+
+    <string name="location">Enter Project</string>
+    <string name="location2">Current Location</string>
+    <string name="next_page">Next Page</string>
+
+    <string name="insert">INSERT</string>
+    <string name="delete">DELETE</string>
+
+
+    <string name="sprint_select">Select Sprint</string>
+    <string name="sprint1">SPRINT 1</string>
+    <string name="sprint2">SPRINT 2</string>
+    <string name="sprint3">SPRINT 3</string>
+
+    <string name="activity_id">Activity ID</string>
+    <string name="to_do">To Do</string>
+    <string name="on_prog">On Progress</string>
+    <string name="done">Done</string>
+
+    <string name="name">Created By : AM Akhlaaq</string>
+</resources>
